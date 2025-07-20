@@ -77,37 +77,39 @@ See your optimal cloud provider based on weighted scores
 - T-Systems:	Deutsche Telekom's cloud
 
 ***Evaluation Criteria***
+
 The application evaluates providers across 23 dimensions:
-Core Infrastructure Offerings
-Security Parameters
-Performance (Latency/Throughput)
-Service Category Coverage
-Suitability for Organization
-Reliability / Uptime
-Enterprise Integration
-AI / ML / Data Capabilities
-Pricing & Flexibility
-Range of Services
-Quality of Services
-Compliance Certifications
-Developer Experience
-Modern Architecture Support
-Regional Strength
-Hybrid/Multicloud Support
-Brand Trust / Familiarity
-Vendor Lock-in Risk
-Ecosystem / Marketplace
-Innovation Velocity
-Marketing/Perception
-Free Tier / Trial
-Niche Services
+
+- Core Infrastructure Offerings
+- Security Parameters
+- Performance (Latency/Throughput)
+- Service Category Coverage
+- Suitability for Organization
+- Reliability / Uptime
+- Enterprise Integration
+- AI / ML / Data Capabilities
+- Pricing & Flexibility
+- Range of Services
+- Quality of Services
+- Compliance Certifications
+- Developer Experience
+- Modern Architecture Support
+- Regional Strength
+- Hybrid/Multicloud Support
+- Brand Trust / Familiarity
+- Vendor Lock-in Risk
+- Ecosystem / Marketplace
+- Innovation Velocity
+- Marketing/Perception
+- Free Tier / Trial
+- Niche Services
 
 ***Future Enhancements***
-Multi-use case comparison dashboard
-Historical decision tracking
-Cost estimation integration
-Provider-specific architecture templates
-Team collaboration features
+- Multi-use case comparison dashboard
+- Historical decision tracking
+- Cost estimation integration
+- Provider-specific architecture templates
+- Team collaboration features
 
 
 Developed as part of my Master's Thesis in Cloud Architecture Decision Frameworks
